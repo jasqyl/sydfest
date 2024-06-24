@@ -1,0 +1,32 @@
+[
+    {
+        "venue": "ICC, Sydney",
+        "name": "Brighter Days Tour",
+        "eta": "3.5 hour",
+        "artist": "The Lumineers",
+        "genre": "Alternative Folk",
+        "img": "/imgs/Brighter Days Tour.jpg",
+        "date": "20/10/2024",
+        "id": 1
+    },
+    {
+        "venue": "Melbourne Cricket Ground (MCG)",
+        "name": "The Eras Tour",
+        "eta": "2 hour",
+        "artist": "Taylor Swift",
+        "genre": "Musical",
+        "img": "/",
+        "date": "16/02/2024",
+        "id": 2
+    },
+    {
+        "venue": "Olympiahalle, Munich",
+        "name": "Divide Tour",
+        "eta": "3.5 hour",
+        "artist": "Ed Sheeran",
+        "genre": "Musical",
+        "img": "/",
+        "date": "19/03/2017",
+        "id": 3
+    }
+]

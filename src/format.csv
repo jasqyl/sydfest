@@ -1,0 +1,10 @@
+original address,search address,type,lat,lon,
+,,,,
+Object.entries(temp1).forEach(([key, arr]) => {
+    csvv.push(`${key},,,,`);
+    arr.forEach(([curr, res]) => {
+        res.forEach(newRes => {
+            csvv.push(`${curr.suburb} ${curr.postcode} ${curr.state},${newRes.display_name.replaceAll(',', ' ')},${newRes.addresstype},${newRes.lat},${newRes.lon}`)
+        })
+    })
+})

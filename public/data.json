@@ -1,0 +1,112 @@
+[
+    {
+        "date": "10/02/2024",
+        "name": "Laneway Festival",
+        "venue": "Various cities across Australia",
+        "eta": "Full day",
+        "genre": "Music Festival",
+        "artist": "Tame Impala, Charli XCX, and The Strokes",
+        "image": "/imgs/Brighter Days Tour.jpg",
+        "description": "Laneway Festival is an annual music festival known for its diverse lineup of indie, electronic, and alternative artists. It takes place in various cities across Australia, featuring multiple stages and a vibrant atmosphere.",
+        "id": 4
+    },
+    { 
+        "date": "17/03/2024",
+        "name": "Formula 1 Australian Grand Prix",
+        "venue": "Albert Park Circuit, Melbourne",
+        "eta": "Full day",
+        "genre": "Motorsport",
+        "artist": "Formula 1 drivers and teams",
+        "image": "/",
+        "description": "The Formula 1 Australian Grand Prix is one of the highlights of the motorsport calendar, attracting top drivers and teams from around the world. The race takes place at the iconic Albert Park Circuit in Melbourne.",
+        "id": 5
+    },
+    {
+        "date": "06/04/2024",
+        "name": "Byron Bay Bluesfest",
+        "venue": "Tyagarah Tea Tree Farm, Byron Bay",
+        "eta": "Full day",
+        "genre": "Music Festival",
+        "artist": "Jack Johnson, Norah Jones, and John Mayer",
+        "description": "Byron Bay Bluesfest is Australia's premier blues and roots music festival, featuring a stellar lineup of international and local artists. Held annually at the picturesque Tyagarah Tea Tree Farm, it offers a unique festival experience in Byron Bay.",
+        "image": "/",
+        "id": 6
+    },
+    {
+        "date": "09/05/2024",
+        "name": "Sydney Writers' Festival",
+        "venue": "Various locations in Sydney",
+        "eta": "Full day",
+        "genre": "Literary Festival",
+        "artist": "Various authors and speakers",
+        "description": "Sydney Writers' Festival celebrates literature and ideas with a diverse program of talks, panels, workshops, and literary events. It brings together acclaimed authors, journalists, and thinkers from around the world to engage in discussions on contemporary issues and storytelling.",
+        "image": "/",
+        "id": 7
+    },
+    {
+        "date": "22/06/2024",
+        "name": "Dark Mofo",
+        "venue": "Various locations in Hobart, Tasmania",
+        "eta": "Evening and night",
+        "genre": "Arts and Music Festival",
+        "artist": "Various avant-garde artists and performers",
+        "image": "/",
+        "description": "Dark Mofo is a winter festival held annually in Hobart, Tasmania, celebrating the dark and avant-garde arts. It features a diverse program of music, art installations, performances, and provocative cultural events, embracing the winter solstice and exploring themes of darkness and light.",
+        "id": 8
+    },  
+    {
+        "date": "15/07/2024",
+        "name": "Darwin Festival",
+        "venue": "Various locations in Darwin",
+        "eta": "Throughout the day and evening",
+        "genre": "Arts and Cultural Festival",
+        "artist": "Various local and international artists",
+        "image": "/",
+        "description": "Darwin Festival is a vibrant celebration of arts and culture in the Northern Territory, featuring a dynamic program of music, theater, dance, visual arts, and outdoor events. Held over several weeks, it showcases the diversity and creativity of the region while fostering community engagement and cultural exchange.",
+        "id": 9
+    },
+    {
+        "date": "03/08/2024",
+        "name": "Splendour in the Grass",
+        "venue": "North Byron Parklands, Byron Bay",
+        "eta": "Full day",
+        "genre": "Music Festival",
+        "artist": "Kendrick Lamar, Arctic Monkeys, and Lorde",
+        "image": "/",
+        "description": "Splendour in the Grass is one of Australia's largest and most iconic music festivals, featuring an eclectic lineup of local and international artists across various genres. Set against the stunning backdrop of Byron Bay, it offers a memorable festival experience with live music, art installations, and creative workshops.",
+        "id": 10
+    },
+    {
+        "date": "14/09/2024",
+        "name": "Melbourne Fashion Week",
+        "venue": "Various locations in Melbourne",
+        "eta": "Full day",
+        "genre": "Fashion",
+        "artist": "Various fashion designers and models",
+        "description": "Melbourne Fashion Week is a premier event on the fashion calendar, showcasing the latest trends and designs from local and international designers. From runway shows to pop-up events and industry forums, it celebrates Melbourne's vibrant fashion scene and creative talent.",
+        "image": "/",
+        "id": 11
+    },
+    {
+        "date": "20/10/2024",
+        "name": "Adelaide Film Festival",
+        "venue": "Various locations in Adelaide",
+        "eta": "Throughout the day and evening",
+        "genre": "Film Festival",
+        "artist": "Filmmakers, actors, and industry professionals",
+        "description": "Adelaide Film Festival is a biennial celebration of screen culture, showcasing the best in Australian and international cinema. From feature films to documentaries and experimental works, it offers a diverse program of screenings, workshops, and industry events, bringing together filmmakers, actors, and cinephiles.",
+        "image": "/",
+        "id": 12
+    },
+    {
+        "date": "08/11/2024",
+        "name": "Sculpture by the Sea",
+        "venue": "Bondi to Tamarama coastal walk, Sydney",
+        "eta": "Throughout the day",
+        "genre": "Visual Arts",
+        "artist": "Various sculptors",
+        "description": "Sculpture by the Sea is an annual outdoor sculpture exhibition that transforms the coastal walk between Bondi and Tamarama in Sydney into a stunning sculpture park. Featuring works by leading Australian and international artists, it offers a unique opportunity to experience art in a spectacular natural setting.",
+        "image": "/",
+        "id": 13
+    }
+]
